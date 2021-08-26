@@ -3,8 +3,10 @@ A JavaScript library to make things move.
 
 
 How Can I Use it?
+
 Find the easing functions here:
 https://zoqol.github.io/twin/
+
 You can use the method Twin.go(id,obj,props,duration,ease,onFinish,onUpdate,easeProps)
 the arguments are :
 
