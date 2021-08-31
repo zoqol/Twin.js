@@ -1,6 +1,5 @@
 # Twin.js
-A JavaScript library to make things move.
-
+An old-school JavaScript library to make things move.
 
 How Can I Use it?
 
